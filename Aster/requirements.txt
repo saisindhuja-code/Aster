@@ -1,0 +1,6 @@
+# Required
+PySide6>=6.5,<7
+
+# Optional — only needed for reading these study files in the Study Room:
+#   pypdf         (PDF notes)       ->  python -m pip install pypdf
+#   python-docx   (Word .docx notes) ->  python -m pip install python-docx

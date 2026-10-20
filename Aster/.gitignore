@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+aster_memory.db
+aster_memory.db-*
+aster.lock
+config/aster_config.json
+config/*.broken
+backups/
+exports/
+logs/
